@@ -1,4 +1,4 @@
-/* °æ±âÃµ³â¹ÙÅÁ */
+/* Â°Ã¦Â±Ã¢ÃƒÂµÂ³Ã¢Â¹Ã™Ã…Ã */
 @font-face { 
     font-family: 'GyeonggiBatang'; 
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff'); 
@@ -7,5 +7,5 @@
 }
 
 * {
-    font-family: 'LotteMartHappy';
+    font-family: 'GyeonggiBatang';
 }
